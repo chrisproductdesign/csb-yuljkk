@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://chrisproductdesign.github.io/csb-yuljkk/static/css/main.fc5c2c69.css",
+    "main.js": "https://chrisproductdesign.github.io/csb-yuljkk/static/js/main.5cd9ffc0.js",
+    "index.html": "https://chrisproductdesign.github.io/csb-yuljkk/index.html",
+    "main.fc5c2c69.css.map": "https://chrisproductdesign.github.io/csb-yuljkk/static/css/main.fc5c2c69.css.map",
+    "main.5cd9ffc0.js.map": "https://chrisproductdesign.github.io/csb-yuljkk/static/js/main.5cd9ffc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.5cd9ffc0.js"
+  ]
+}
